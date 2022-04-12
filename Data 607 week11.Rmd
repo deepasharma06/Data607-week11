@@ -1,0 +1,32 @@
+---
+title: "Deepa data607 Week 11"
+author: "Deepa"
+date: "4/12/2022"
+output: html_document
+---
+
+## 1. Scenario Design Analysis:
+For this assignment, I am using Udemy learning available @ https://www.udemy.com/.
+The website provides a variety of highly-rated content and learning materials from topics that covers a wide range of learning.
+The site can be accessed for a paid subscription or by purchasing select courses. Udemy provides individual as well as corporate accounts
+where the materials are accessible to all employees.
+
+From a review of the information available on the web, Udemy recommends different courses for individuals.
+For corporate account users, the organization can recommend the courses to its employees as well.
+The site tracks the progress of the individuals and sends reminders as well as keeps a history of all the courses completed.
+
+## 2. Reverse Engineering:
+After performing the sentimental analysis in R, I thought Udemy may be using a similar approach to come up with a course recommendation at the individual level.
+However, the limitation to this approach is that the site will have to wait for the user to provide information to the platform such as by selecting topics of interest
+as well as by performing a sentimental analysis of the words that the user uses in the search field.
+The site would have no way to figure out what course would be a good fit for the user before they provide these inputs.
+
+## 3. How to improve?
+In the registration process, Udemy can as the user for their role. For example, an IT manager, a Data Scientist, or a Professor of Biology.
+Based on this information, Udemy can provide the user with a list of the most latest learning material in the field.
+This will be especially helpful for people who may have an aptitude for learning but may not know what to explore.
+In addition, this approach may provide the user with a new perspective on their learning profile where they may get exposure to courses that they would have not known existed.
+
+## References:
+ Online courses - learn anything, on your schedule. Udemy. (n.d.). Retrieved April 12, 2022, from https://www.udemy.com/ 
+
